@@ -1,0 +1,6 @@
+{
+  "name": "Chibi Puzzle Safari",
+  "description": "Juego de puzzle colorido con adorables animales chibi de nueve piezas, dificultad gradual y santuario coleccionable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
